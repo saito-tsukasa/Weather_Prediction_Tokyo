@@ -5,7 +5,7 @@
 
   気象庁データ : 2018/1/1~2021/10/25 内の東京都の平均気温データ
   
-- Wheather_Prediction.ipynb
+- Weather_Prediction.ipynb
 
   テーマ設定〜学習結果&評価〜考察〜Pythonコード
 
